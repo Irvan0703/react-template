@@ -1,4 +1,5 @@
 const Input = (props) => {
+
   if(props.type === 'checkbox') {
     return (
       <div>
